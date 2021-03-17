@@ -16,3 +16,4 @@ const TagsComponent = {
     `;
   }
 }
+export default TagsComponent;
