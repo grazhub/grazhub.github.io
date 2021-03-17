@@ -1,4 +1,4 @@
-
+import TagsComponent from "./components.js";
 const components = {
   tags: TagsComponent
 };
