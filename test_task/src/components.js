@@ -15,6 +15,4 @@ const TagsComponent = {
       </section>
     `;
   }
-};
-
-export default TagsComponent;
+}
