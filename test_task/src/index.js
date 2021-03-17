@@ -1,7 +1,4 @@
-// import "../styles/styles.css";
-// import "../styles/normalize.css";
-import TagsComponent from "./components.js";
-// List of components (from components.js)
+
 const components = {
   tags: TagsComponent
 };
